@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines logistics operations for warehouse, transit, and driver staff with task management, scanning, real-time updates, and role-based access on PDA devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
